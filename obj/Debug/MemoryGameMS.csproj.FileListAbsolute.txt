@@ -1,0 +1,13 @@
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\bin\Debug\MemoryGameMS.exe.config
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\bin\Debug\MemoryGameMS.exe
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\bin\Debug\MemoryGameMS.pdb
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.csproj.AssemblyReference.cache
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.Form1.resources
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.LevelEasy.resources
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.LevelHard.resources
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.Properties.Resources.resources
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.csproj.GenerateResource.cache
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.exe
+C:\Users\Patrycja\source\repos\MemoryGameMS\MemoryGameMS\obj\Debug\MemoryGameMS.pdb
